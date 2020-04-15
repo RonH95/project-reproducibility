@@ -1,10 +1,17 @@
 # Project Reproducibility
+_____
 
 The goal of this repository is to serve as an example on how to set up any type of data analysis in a reproducible way.
+_____
+
 
 Developing reproducible analysis should be considered a best practice in the sciences. Unfortunately, it is not yet a very widespread practice.
 Let me tell you why it is at least good for you as a scientist to strive for reproducibility in your projects:
+_____
 
+*Italics*
+**Bold**
+***BOTH***
 - You keep all the files to run an analysis organized and contained on the same place.
 - You save time for yourself when you need to rerun the analysis further down the road: changed a small variable, fix a database, plot figures again, put them on a report, etc.
 - It is easier to share code with other people that might need it, saving you time on explanations and increasing your academic presence.
@@ -12,6 +19,7 @@ Let me tell you why it is at least good for you as a scientist to strive for rep
 - Save time and resources for others that might take over your project later.
 - Get proper credit for the work that you have done, even if it is not published on a journal or book. A reproducible project sets a good precedent of work that someone can build upon and not just start over, supporting proper credit to your own work.
 
+*****
 So, what are the main parts of a reproducible project?
 
 ## The README file
